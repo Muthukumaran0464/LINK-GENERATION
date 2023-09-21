@@ -1,0 +1,146 @@
+Manikandan - Administrative Manager
+ 
+Started his career in 2019, handling office, Human Resources, Finance, Network, and setup Administration are his major roles. 
+Responsible for:
+1. Accountability, finance, Funds Raising(Budget Planning), Pre-planning.
+2. Monthly Account Maintenance which includes [Salaried TDS, ESI, Provident Funds]
+3. Corporate Affairs, Registration with the local municipality, Goods and Services Tax, Import and Export Service and Incorporation.
+4. Purchase(to be filled by 21st of every month) and Sales(to be filled by 10th of every month).
+Tools Used:
+1. ERP (Finance)
+2. Tally (Accountability)
+3. Zendesk (SLA)
+
+Various aspects of recruiting an SLA:
+1. Fluent Communication (UK Slang)
+2. Patience
+3. Tracking Ability. 
+
+Santhosh Kumar - Senior Full Stack Developer
+
+Joined Mediwave 1.5 Years ago, and led various projects namely Alderhay @nywhere, Alderhay WMV, and CHD.
+Currently working on our own product MAIA. Plays his role along with the design team in architectural setup. 
+His checklist involves sprint planning, Mid-Review, and End of Review.
+
+1. Created a common base along with team members that is feasible for others to develop.
+2. Goes along with the plan of the project.
+3. Focuses on Backend Security and Encryption.
+4. Split a big task into chunks and solve it.
+
+Tools Used:
+1. VS Code
+2. Github
+3. Postman [Without front-end dependency we can work on the Backend].
+
+Jayanthi QA Lead
+
+Works with Agile Methodology. So far worked on 21 projects and currently handling 9 projects.
+1. Performs sprint-wise actions and demo sessions if accepted in the requirement phase.
+2. Currently using Eclipse for automation along with Jenkins and Cucumber framework, Moving to Playwright for upcoming automation projects.
+3. For Bug reporting and locking Wrike is used.
+4. As a QA Lead does follow-ups, schedules weekly meetings, assigns tasks daily, and updates workload. Responsible for sign-off from Staging to User Acceptance Testing.
+5. QA Team uses Custom Fields in which they can lock the bugs of the project (Implemented this April).
+6. Doesn't allow P1 and P2 bugs to the deployment team.
+7. Schedule the time needed to dispatch the task (Pre-planning).
+
+Tools used:
+1. Jmeter - Load Testing.
+2. Postman - API Testing.
+3. Wave - Accessibility Testing.
+
+George Washington - Admin
+
+Fixes office-related issues. Solves internal resource shortages (Water, Electricity, etc.,)
+
+1. Takes care of the issues raised by trainees.
+2. Handles networking and system issues.
+3. Estimates the resource budget of the office and submits it to Manikandan.
+4. Gives inputs for cultural events.
+5. Assign Common Wrike tasks to all.
+
+
+DEEPAK AND VASU - Front-End & Design Managers
+
+Decides which phase is to done first to make Back-end developer easier. 
+
+1. From Design, the flow moves to the Front End Team who is responsible for the User Interface.
+2. As a FE dev, the main goal is to achieve (bug) error-free product.
+3. Involved in various projects like Alderplay, @nywhere, Beth, MAIA, Medi check, and ACACIUM, etc.,
+4. Pre-planning will be done to manage timing.
+5. Based on the priority approaches to the task.
+
+Tools Used:
+
+1.JavaScript, React 
+2. Figma, Adobe XD.
+
+Hemavathy and Vyshnav - Human Resource Team
+
+1. Responsible for Recruitment, Charlie HR, and Cultural activities.
+2. For any issues or suggestions related to work, they will be the point of contact.
+
+GOPU - Full Stack Lead
+
+Started his career as a developer, and now he leads a full-stack team. Currently working on MAIA own project.
+While assigning tasks to team members, conducts [KT sessions] so on-time delivery will be attained.
+Keeps tracking through daily or alternative day meetings.
+
+Tools Used:
+
+1. Javascript - FE & BE
+2. React - FE
+3. Node JS, Express JS, MongoDB - BE
+
+
+
+Sravan Kumar - QA & Third-Party Integrations
+
+Manages the whole QA team. Responsible for Data Security and Encryption. 
+
+
+Vignesh - Devops Team
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
